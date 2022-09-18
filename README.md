@@ -45,14 +45,19 @@
 </p>
 
 
-<h2 dir="auto"> 🛠 Tecnologias Utilizadas </h2>
+<h2 dir="auto"> ⚠️ Especificação e requisitos</h2>
 <ul dir="auto">
  <li> Noções básicas de Java e Orientação a Objetos (OO) </li>
- <li> Noções básicas de Git/GitHub </li>
-
-
- 
+ <li> Noções básicas de Git/GitHub </li> 
 </ul>
+
+
+<h2 dir="auto"> 🛠 Tecnologias Utilizadas </h2>
+
+
+
+
+
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
