@@ -1,6 +1,6 @@
 
 <h1> 
- Sejam bem-vindos!!! </br>
+ Sejam bem-vindos!!! <br>
  Esse é o meu repositorio de projetos e codigos do programa GFT Start #5 Java. 
 </h1>
 
@@ -11,6 +11,11 @@
 
 
 <h2 dir="auto"> 🎯 Objetivo </h2>
+<h3>
+ O objetivo principal desse projeto é: <br>
+ Criar um Banco Digital com Java e Orientação a Objetos.
+</h3> 
+
 <ul dir="auto">
  <li> Explorar os pilares da orientação a objetos no contexto bancário. </li>
  <li> Implementa um projeto de referência de forma prática e interativa. </li>
