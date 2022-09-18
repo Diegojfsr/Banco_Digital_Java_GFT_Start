@@ -28,20 +28,18 @@
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
  <li> Módulo 1 - Como usar os desafios de projeto para criar seu portfolio. <a href="https://"> Acessar </a></li>
- <li> Módulo 2 - Apresentação inicial. <a href="https://"> Acessar </a></li>
- <li> Módulo 3 - Contexto geral sobre o uso banco de dados na atualidade. <a href="https://"> Acessar </a></li>
- <li> Módulo 4 - O que é SQL e NoSQL. <a href="https://"> Acessar </a></li>
- <li> Módulo 5 - O NoSQL não foi criado para substituir o SQL. <a href="https://"> Acessar </a></li>
- <li> Módulo 6 - Como se consulta um dado armazenado no NoSQL? <a href="https://"> Acessar </a></li>
- <li> Módulo 7 - Conhecer um SGBD de cada tipo é suficiente para iniciar? <a href="https://"> Acessar </a></li>
- <li> Módulo 8 - A flexibilidade do NoSQL frente ao SQL. <a href="https://"> Acessar </a></li>
- <li> Módulo 9 - No Banco Carrefour, quais os SGBDs mais utilizados? <a href="https://"> Acessar </a></li>
- <li> Módulo 10 - Evolução da arquitetura de sistemas e transições de estruturas. <a href="https://"> Acessar </a></li>
+ <li> Módulo 2 - Apresentação e conceitos sobre Domínio/Problema. <a href="https://"> Acessar </a></li>
+ <li> Módulo 3 - Pilares da orientação a objetos - Abstração. <a href="https://"> Acessar </a></li>
+ <li> Módulo 4 - Pilares da orientação a objetos - Encapsulamento. <a href="https://"> Acessar </a></li>
+ <li> Módulo 5 - Pilares da orientação a objetos - Herança. <a href="https://"> Acessar </a></li>
+ <li> Módulo 6 - Pilares da orientação a objetos - Polimorfismo. <a href="https://"> Acessar </a></li>
+ <li> Módulo 7 - Desenvolvendo saque, depósito, transferência e extrato. <a href="https://"> Acessar </a></li>
+ <li> Módulo 8 - Proposta de desafio de projeto. <a href="https://"> Acessar </a></li>
+ <li> Módulo 9 - Subindo o código no Github e comentários finais. <a href="https://"> Acessar </a></li>
+ <li> Módulo 10 - Entendendo o Desafio. <a href="https://"> Acessar </a></li>
  <li> Módulo 11 - Sobre DataLake e Databricks. <a href="https://"> Acessar </a></li>
  <li> Módulo 12 - Quais os maiores desafios na hora de realizar o ETL? <a href="https://"> Acessar </a></li>
  
-
-
 </ul>
 
 
