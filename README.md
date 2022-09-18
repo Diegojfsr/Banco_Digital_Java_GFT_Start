@@ -21,8 +21,6 @@
  <li> Implementa um projeto de referência de forma prática e interativa. </li>
  <li> Desenvolver a capacidade de abstração reproduzindo essa solução. </li>
  <li> Ir além, e implementar minhas próprias evoluções e melhorias. </li>
-
-
 </ul>
 
 <h2 dir="auto"> 🚦 Guia </h2>
@@ -47,6 +45,14 @@
 </p>
 
 
+<h2 dir="auto"> 🛠 Tecnologias Utilizadas </h2>
+<ul dir="auto">
+ <li> Noções básicas de Java e Orientação a Objetos (OO) </li>
+ <li> Noções básicas de Git/GitHub </li>
+
+
+ 
+</ul>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
