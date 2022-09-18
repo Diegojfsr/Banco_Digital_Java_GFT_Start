@@ -37,8 +37,6 @@
  <li> Módulo 8 - Proposta de desafio de projeto. <a href="https://"> Acessar </a></li>
  <li> Módulo 9 - Subindo o código no Github e comentários finais. <a href="https://"> Acessar </a></li>
  <li> Módulo 10 - Entendendo o Desafio. <a href="https://"> Acessar </a></li>
- <li> Módulo 11 - Sobre DataLake e Databricks. <a href="https://"> Acessar </a></li>
- <li> Módulo 12 - Quais os maiores desafios na hora de realizar o ETL? <a href="https://"> Acessar </a></li>
  
 </ul>
 
