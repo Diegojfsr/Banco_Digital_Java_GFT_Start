@@ -54,9 +54,10 @@
 
 <h2 dir="auto"> 🛠 Tecnologias Utilizadas </h2>
 
-
-
-
+<ul dir="auto">
+ <li> IDE Eclipse </li>
+ <li> Java 11</li> 
+</ul>
 
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
