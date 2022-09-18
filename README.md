@@ -1,15 +1,12 @@
-# Banco_Digital_Java_GFT_Start
-Esse é o meu repositorio para o Desafio de projeto:  Criando um Banco Digital com Java e Orientação a Objetos.
 
-
-
-<h1> Sejam bem-vindos!!! </br>
- Esse é o meu repositorio para o Desafio de projeto:  Criando um Banco Digital com Java e Orientação a Objetos. </h1>
+<h1> 
+ Sejam bem-vindos!!! </br>
+ Esse é o meu repositorio de projetos e codigos do programa GFT Start #5 Java. 
+</h1>
 
 <h4> 
-  Repositório criado para documentar meu passo a passo no GFT Start# 5 Java. 
-  Um programa gratuito para formação e recrutamento de estagiários pela GFT.
-
+ Repositório criado para documentar meu passo a passo no programa GFT Start #5 Java! 
+ Um programa gratuito para formação e recrutamento de estagiários pela GFT.
 </h4>
 
 
