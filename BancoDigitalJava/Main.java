@@ -4,11 +4,14 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Conta corrente = new ContaCorrente();
+		Cliente Camille = new Cliente();
+		Camille.setNome("Camille");
+		
+		Conta corrente = new ContaCorrente(Camille);
 		corrente.depositar(100);
 		
 		
-		Conta poupanca = new ContaPoupanca();
+		Conta poupanca = new ContaPoupanca(Camille);
 		corrente.transferir(50, poupanca);
 
 		corrente.imprimirExtrato();
